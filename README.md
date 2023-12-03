@@ -1,4 +1,3 @@
-Certainly! Below is an example README.md file for your tool, along with a basic requirements.txt:
 
 ### CDN Scanner
 
