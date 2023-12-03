@@ -1,7 +1,7 @@
 
 ### CDN Scanner
 
-![MrBOOND](https://your-image-url.com) <!-- Replace with an image link or remove this line -->
+![MrBOOND](https://github.com/BOONNDD/cdnscanner/blob/main/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A3-%D9%A1%D9%A2-%D9%A0%D9%A4-%D9%A0%D9%A2-%D9%A5%D9%A3-%D9%A4%D9%A3-%D9%A4%D9%A1%D9%A1_com.termux.jpg) <!-- Replace with an image link or remove this line -->
 
 CDN Scanner is a Python tool designed to scan IP addresses or ranges for CDN (Content Delivery Network) services. It checks if a given IP is served by popular CDN providers such as Cloudflare or Cloudfront.
 
