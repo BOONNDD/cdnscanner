@@ -18,7 +18,7 @@ CDN Scanner is a Python tool designed to scan IP addresses or ranges for CDN (Co
 
    ```bash
    git clone https://github.com/BOONNDD/cdnscanner.git
-   cd cdn-scanner
+   cd cdnscanner
    ```
 
 2. Install the required dependencies:
