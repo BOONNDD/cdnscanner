@@ -61,6 +61,29 @@ CDN Scanner is a Python tool designed to scan IP addresses or ranges for CDN (Co
   python cdnscanner.py 192.168.1.1 -P 12.34.56.6:80
   ```
 
+
+لفحص ip range ورأيت فرعيات عنوان ال ip  
+
+```
+python3 ping.py 15.197.142.0/24
+```
+لزياده سرعه الفحص أستخدم الامر التالي: 
+
+```
+python3 ping.py 15.197.142.0/24 -t 100
+```
+لفحص عنوان ال ip عبر port محدد 
+
+```
+python3 ping.py 15.197.142.0/24 -p 80 -t 100
+```
+لفحص عدة ip من ملف واحد موجود لديك  عبر بروكسي
+
+```
+python3 ping.py -f cloudflare.txt -p 80 -P 89.221.224.92:80 -t 100
+```
+ملاحضه تستطيع الفحص بدون اي أتصالا ب الانترنت
+
 - Scan from a file:
 
   ```bash
